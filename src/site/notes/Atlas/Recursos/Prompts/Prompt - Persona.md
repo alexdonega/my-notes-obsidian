@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/recursos/prompts/prompt-persona/","tags":["prompt","estudo/curso","estudo/youtube","gardenEntry"]}
+{"dg-publish":true,"permalink":"/atlas/recursos/prompts/prompt-persona/","tags":["prompt","estudo/curso","estudo/youtube","gardenEntry","gardenEntry"]}
 ---
 
 ## Tarefas
